@@ -9,5 +9,5 @@ Download & npm install
 ### Run app
 
 ```
-node app.js | node app
+npm start | node app.js
 ```
